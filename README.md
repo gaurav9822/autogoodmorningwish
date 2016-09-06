@@ -1,2 +1,2 @@
 # autogoodmorningwish
-#Simple python script to wish Good morning to your peers in Communicator
+Simple python script to wish Good morning to your peers in Communicator
